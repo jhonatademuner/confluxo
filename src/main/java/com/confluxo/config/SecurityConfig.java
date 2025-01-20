@@ -1,7 +1,7 @@
-package com.bizflow.config;
+package com.confluxo.config;
 
-import com.bizflow.config.filter.JwtFilter;
-import com.bizflow.service.user.CustomUserDetailsService;
+import com.confluxo.config.filter.JwtFilter;
+import com.confluxo.service.user.CustomUserDetailsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

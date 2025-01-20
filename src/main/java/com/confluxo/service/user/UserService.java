@@ -1,12 +1,11 @@
-package com.bizflow.service.user;
+package com.confluxo.service.user;
 
-import com.bizflow.domain.user.CustomUserDetails;
-import com.bizflow.domain.user.User;
-import com.bizflow.domain.user.UserRole;
-import com.bizflow.domain.user.dto.UserLoginDTO;
-import com.bizflow.domain.user.dto.UserRegisterDTO;
-import com.bizflow.repository.user.UserRepository;
-import com.bizflow.service.jwt.JwtService;
+import com.confluxo.domain.user.CustomUserDetails;
+import com.confluxo.domain.user.User;
+import com.confluxo.domain.user.dto.UserLoginDTO;
+import com.confluxo.domain.user.dto.UserRegisterDTO;
+import com.confluxo.repository.user.UserRepository;
+import com.confluxo.service.jwt.JwtService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

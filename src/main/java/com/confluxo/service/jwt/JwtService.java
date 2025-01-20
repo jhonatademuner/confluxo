@@ -1,4 +1,4 @@
-package com.bizflow.service.jwt;
+package com.confluxo.service.jwt;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

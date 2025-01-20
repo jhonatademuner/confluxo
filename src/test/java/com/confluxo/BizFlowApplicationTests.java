@@ -1,4 +1,4 @@
-package com.bizflow;
+package com.confluxo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.bizflow.domain.user;
+package com.confluxo.domain.user;
 
 import jakarta.persistence.*;
 import lombok.*;
