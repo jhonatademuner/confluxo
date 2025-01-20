@@ -1,6 +1,6 @@
-package com.bizflow.repository.user;
+package com.confluxo.repository.user;
 
-import com.bizflow.domain.user.User;
+import com.confluxo.domain.user.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

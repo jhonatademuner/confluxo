@@ -1,7 +1,7 @@
-package com.bizflow.config.filter;
+package com.confluxo.config.filter;
 
-import com.bizflow.service.jwt.JwtService;
-import com.bizflow.service.user.CustomUserDetailsService;
+import com.confluxo.service.jwt.JwtService;
+import com.confluxo.service.user.CustomUserDetailsService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

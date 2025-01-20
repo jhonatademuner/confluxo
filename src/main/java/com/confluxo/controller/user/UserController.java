@@ -1,9 +1,9 @@
-package com.bizflow.controller.user;
+package com.confluxo.controller.user;
 
-import com.bizflow.domain.user.User;
-import com.bizflow.domain.user.dto.UserLoginDTO;
-import com.bizflow.domain.user.dto.UserRegisterDTO;
-import com.bizflow.service.user.UserService;
+import com.confluxo.domain.user.User;
+import com.confluxo.domain.user.dto.UserLoginDTO;
+import com.confluxo.domain.user.dto.UserRegisterDTO;
+import com.confluxo.service.user.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

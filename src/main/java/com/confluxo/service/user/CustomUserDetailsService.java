@@ -1,8 +1,8 @@
-package com.bizflow.service.user;
+package com.confluxo.service.user;
 
-import com.bizflow.domain.user.CustomUserDetails;
-import com.bizflow.domain.user.User;
-import com.bizflow.repository.user.UserRepository;
+import com.confluxo.domain.user.CustomUserDetails;
+import com.confluxo.domain.user.User;
+import com.confluxo.repository.user.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
