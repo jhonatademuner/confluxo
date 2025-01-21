@@ -1,6 +1,6 @@
-package com.confluxo.repository.user;
+package com.comfluxo.repository.user;
 
-import com.confluxo.domain.user.User;
+import com.comfluxo.domain.user.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

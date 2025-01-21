@@ -1,11 +1,11 @@
-package com.confluxo.service.user;
+package com.comfluxo.service.user;
 
-import com.confluxo.domain.user.CustomUserDetails;
-import com.confluxo.domain.user.User;
-import com.confluxo.domain.user.dto.UserLoginDTO;
-import com.confluxo.domain.user.dto.UserRegisterDTO;
-import com.confluxo.repository.user.UserRepository;
-import com.confluxo.service.jwt.JwtService;
+import com.comfluxo.domain.user.CustomUserDetails;
+import com.comfluxo.domain.user.User;
+import com.comfluxo.domain.user.dto.UserLoginDTO;
+import com.comfluxo.domain.user.dto.UserRegisterDTO;
+import com.comfluxo.repository.user.UserRepository;
+import com.comfluxo.service.jwt.JwtService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

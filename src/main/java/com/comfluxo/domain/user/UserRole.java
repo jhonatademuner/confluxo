@@ -1,4 +1,4 @@
-package com.confluxo.domain.user;
+package com.comfluxo.domain.user;
 
 public enum UserRole {
 

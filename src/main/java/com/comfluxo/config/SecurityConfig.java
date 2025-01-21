@@ -1,7 +1,7 @@
-package com.confluxo.config;
+package com.comfluxo.config;
 
-import com.confluxo.config.filter.JwtFilter;
-import com.confluxo.service.user.CustomUserDetailsService;
+import com.comfluxo.config.filter.JwtFilter;
+import com.comfluxo.service.user.CustomUserDetailsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

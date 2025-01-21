@@ -1,4 +1,4 @@
-package com.confluxo.domain.user;
+package com.comfluxo.domain.user;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

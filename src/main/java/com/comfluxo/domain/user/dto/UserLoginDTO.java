@@ -1,4 +1,4 @@
-package com.confluxo.domain.user.dto;
+package com.comfluxo.domain.user.dto;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.AllArgsConstructor;
