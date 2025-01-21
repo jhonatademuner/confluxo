@@ -1,6 +1,6 @@
-package com.confluxo.domain.user.dto;
+package com.comfluxo.domain.user.dto;
 
-import com.confluxo.domain.user.UserRole;
+import com.comfluxo.domain.user.UserRole;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.*;
 

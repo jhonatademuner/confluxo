@@ -8,10 +8,10 @@
 		<version>3.4.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.confluxo</groupId>
-	<artifactId>confluxo</artifactId>
+	<groupId>com.comfluxo</groupId>
+	<artifactId>comfluxo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ConFluxo</name>
+	<name>ComFluxo</name>
 	<description>Business Management System</description>
 	<url/>
 	<licenses>

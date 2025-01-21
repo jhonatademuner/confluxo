@@ -1,4 +1,4 @@
-package com.confluxo.service.jwt;
+package com.comfluxo.service.jwt;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

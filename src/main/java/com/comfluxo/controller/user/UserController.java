@@ -1,9 +1,9 @@
-package com.confluxo.controller.user;
+package com.comfluxo.controller.user;
 
-import com.confluxo.domain.user.User;
-import com.confluxo.domain.user.dto.UserLoginDTO;
-import com.confluxo.domain.user.dto.UserRegisterDTO;
-import com.confluxo.service.user.UserService;
+import com.comfluxo.domain.user.User;
+import com.comfluxo.domain.user.dto.UserLoginDTO;
+import com.comfluxo.domain.user.dto.UserRegisterDTO;
+import com.comfluxo.service.user.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
